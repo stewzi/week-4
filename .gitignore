@@ -30,3 +30,4 @@ cython_debug/
 .env
 
 # environment (ignore one, use the other)
+.venv/
